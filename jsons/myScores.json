@@ -1,0 +1,3101 @@
+{
+  "user_id": "10153345649555260",
+  "user_level_of_control": 0.7333333333333333,
+  "user_privacy_score": 0.4207877188504405,
+  "user_visibility_overall": 1.0,
+  "user_visibility_label": "FRIENDS",
+  "user_visibility_actual_audience": null,
+  "overall_personal_data_value": null,
+  "user_influence": null,
+  "personal_data_value_per_item": {},
+  "dimensions": [
+    {
+      "dimension_name": "Hobbies",
+      "dimension_privacy_score": 0.5172374331496838,
+      "dimension_visibility_overall": 1.0,
+      "dimension_level_of_control": 0.7333333333333333,
+      "dimension_visibility_label": "FRIENDS",
+      "dimension_visibility_actual_audience": null,
+      "dimension_sensitivity": 0.61342,
+      "attributes": [
+        {
+          "normalized": true,
+          "attribute_name": "travelling",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.61342,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.490736,
+          "values": [
+            {
+              "value_name": "yes",
+              "value_confidence": 0.8,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.490736,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "LIKES_MAPPING",
+                  "support_data_pointer_ids": [
+                    "LIKE 913210135430928"
+                  ],
+                  "support_confidence": 0.8,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been associated with high confidence to the following pages that you have liked:  Ξενώνας Munti Smolikas",
+                  "support_description_sw": "Dessa resultat baseras med hög konfidens på följande sidor som du har gillat: Ξενώνας Munti Smolikas",
+                  "support_description_du": "Deze resultaten werden geassocieerd met de pagina’s die je leuk vond met een hoge zekerheid: Ξενώνας Munti Smolikas",
+                  "support_is_main": true
+                },
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.32745899099266956,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes, your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla, inlägg, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks, posts, afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": false
+                }
+              ]
+            },
+            {
+              "value_name": "no",
+              "value_confidence": 0.6725410090073305,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.4125501057452767,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.6725410090073305,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes, your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla, inlägg, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks, posts, afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "music",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.61342,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.490736,
+          "values": [
+            {
+              "value_name": "yes",
+              "value_confidence": 0.8,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.490736,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "LIKES_MAPPING",
+                  "support_data_pointer_ids": [
+                    "LIKE 156164844446935",
+                    "LIKE 20763704268",
+                    "LIKE 152225864967382",
+                    "LIKE 194750760669585",
+                    "LIKE 22091039498",
+                    "LIKE 1402474526707003"
+                  ],
+                  "support_confidence": 0.8,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been associated with high confidence to the following pages that you have liked:  Lost Bodies, Uaigneas, Gus Boggar, Carcass, Roibéard Ó Bogail, Zorz Pilali - Ζωρζ Πιλαλι",
+                  "support_description_sw": "Dessa resultat baseras med hög konfidens på följande sidor som du har gillat: Lost Bodies, Uaigneas, Gus Boggar, Carcass, Roibéard Ó Bogail, Zorz Pilali - Ζωρζ Πιλαλι",
+                  "support_description_du": "Deze resultaten werden geassocieerd met de pagina’s die je leuk vond met een hoge zekerheid: Lost Bodies, Uaigneas, Gus Boggar, Carcass, Roibéard Ó Bogail, Zorz Pilali - Ζωρζ Πιλαλι",
+                  "support_is_main": true
+                },
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.7442646149388211,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": false
+                }
+              ]
+            },
+            {
+              "value_name": "no",
+              "value_confidence": 0.2557353850611789,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.15687319990422835,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.2557353850611789,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "reading",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.61342,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.490736,
+          "values": [
+            {
+              "value_name": "yes",
+              "value_confidence": 0.8,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.490736,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "LIKES_MAPPING",
+                  "support_data_pointer_ids": [
+                    "LIKE 547745631984036",
+                    "LIKE 1706558482921488"
+                  ],
+                  "support_confidence": 0.8,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been associated with high confidence to the following pages that you have liked:  Παλαιοβιβλιοπωλείο \"Ο Αριστείδης\", Τα Βιβλία του Ηλία",
+                  "support_description_sw": "Dessa resultat baseras med hög konfidens på följande sidor som du har gillat: Παλαιοβιβλιοπωλείο \"Ο Αριστείδης\", Τα Βιβλία του Ηλία",
+                  "support_description_du": "Deze resultaten werden geassocieerd met de pagina’s die je leuk vond met een hoge zekerheid: Παλαιοβιβλιοπωλείο \"Ο Αριστείδης\", Τα Βιβλία του Ηλία",
+                  "support_is_main": true
+                },
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.6253931881825563,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": false
+                }
+              ]
+            },
+            {
+              "value_name": "no",
+              "value_confidence": 0.3746068118174437,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.2297913105050563,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.3746068118174437,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "dancing",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.61342,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.4731205544502422,
+          "values": [
+            {
+              "value_name": "no",
+              "value_confidence": 0.7712832226700177,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.4731205544502422,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.7712832226700177,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with high confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med hög konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een high zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "yes",
+              "value_confidence": 0.2287167773299823,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.14029944554975773,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.2287167773299823,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "camping",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.61342,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.5305569645187523,
+          "values": [
+            {
+              "value_name": "no",
+              "value_confidence": 0.8649163126711754,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.5305569645187523,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.8649163126711754,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with high confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med hög konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een high zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "yes",
+              "value_confidence": 0.1350836873288246,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.08286303548124757,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.1350836873288246,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "gardening",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.61342,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.5493478980808649,
+          "values": [
+            {
+              "value_name": "no",
+              "value_confidence": 0.8955493757635306,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.5493478980808649,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.8955493757635306,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with high confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med hög konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een high zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "yes",
+              "value_confidence": 0.10445062423646945,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.06407210191913508,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.10445062423646945,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "theatre",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.61342,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.61342,
+          "values": [
+            {
+              "value_name": "no",
+              "value_confidence": 1.0,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.61342,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *"
+                  ],
+                  "support_confidence": 1.0,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with high confidence based on all  your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med hög konfidens baserat på dina  inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een high zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "yes",
+              "value_confidence": 0.0,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.0,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *"
+                  ],
+                  "support_confidence": 0.0,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "animals",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.61342,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.5372317786559099,
+          "values": [
+            {
+              "value_name": "no",
+              "value_confidence": 0.8757976242312118,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.5372317786559099,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *"
+                  ],
+                  "support_confidence": 0.8757976242312118,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with high confidence based on all  your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med hög konfidens baserat på dina  inlägg,  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  posts,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een high zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "yes",
+              "value_confidence": 0.12420237576878823,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.07618822134409008,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *"
+                  ],
+                  "support_confidence": 0.12420237576878823,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  inlägg,  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  posts,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "shopping",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.61342,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.5283184391202886,
+          "values": [
+            {
+              "value_name": "no",
+              "value_confidence": 0.8612670586552259,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.5283184391202886,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.8612670586552259,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with high confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med hög konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een high zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "yes",
+              "value_confidence": 0.1387329413447741,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.08510156087971132,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.1387329413447741,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "sports",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.61342,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.4704612376646,
+          "values": [
+            {
+              "value_name": "no",
+              "value_confidence": 0.7669479926715791,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.4704612376646,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.7669479926715791,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with high confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med hög konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een high zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "yes",
+              "value_confidence": 0.2330520073284209,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.14295876233539995,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.2330520073284209,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "series movies",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.61342,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.41876432530554814,
+          "values": [
+            {
+              "value_name": "no",
+              "value_confidence": 0.3173285427512175,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.19465567469445183,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *"
+                  ],
+                  "support_confidence": 0.3173285427512175,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  inlägg,  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  posts,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "yes",
+              "value_confidence": 0.6826714572487825,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.41876432530554814,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *"
+                  ],
+                  "support_confidence": 0.6826714572487825,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  inlägg,  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  posts,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "hiking",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.61342,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.61342,
+          "values": [
+            {
+              "value_name": "no",
+              "value_confidence": 1.0,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.61342,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *"
+                  ],
+                  "support_confidence": 1.0,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with high confidence based on all  your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med hög konfidens baserat på dina  inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een high zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "yes",
+              "value_confidence": 0.0,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.61342,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.0,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *"
+                  ],
+                  "support_confidence": 0.0,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dimension_name": "Health",
+      "dimension_privacy_score": 0.7191683761989764,
+      "dimension_visibility_overall": 1.0,
+      "dimension_level_of_control": 0.7333333333333333,
+      "dimension_visibility_label": "FRIENDS",
+      "dimension_visibility_actual_audience": null,
+      "dimension_sensitivity": 0.9381,
+      "attributes": [
+        {
+          "normalized": true,
+          "attribute_name": "medicines",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.9381,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.75048,
+          "values": [
+            {
+              "value_name": "yes",
+              "value_confidence": 0.8,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.75048,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "LIKES_MAPPING",
+                  "support_data_pointer_ids": [
+                    "LIKE 147922858638342"
+                  ],
+                  "support_confidence": 0.8,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been associated with high confidence to the following pages that you have liked:  Dem@Care FP7 Project",
+                  "support_description_sw": "Dessa resultat baseras med hög konfidens på följande sidor som du har gillat: Dem@Care FP7 Project",
+                  "support_description_du": "Deze resultaten werden geassocieerd met de pagina’s die je leuk vond met een hoge zekerheid: Dem@Care FP7 Project",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "exercising",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.9381,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.6476936319002012,
+          "values": [
+            {
+              "value_name": "no",
+              "value_confidence": 0.6904313313081774,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.6476936319002012,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *"
+                  ],
+                  "support_confidence": 0.6904313313081774,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  inlägg,  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  posts,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "yes",
+              "value_confidence": 0.30956866869182253,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.29040636809979875,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *"
+                  ],
+                  "support_confidence": 0.30956866869182253,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  inlägg,  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  posts,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "bmi class",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.9381,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.7836535196066577,
+          "values": [
+            {
+              "value_name": "healthy",
+              "value_confidence": 0.8353624556088453,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.7836535196066577,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.8353624556088453,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with high confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med hög konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een high zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "non-healthy",
+              "value_confidence": 0.16463754439115474,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.15444648039334227,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.16463754439115474,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "smoking",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.9381,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.7552871014400062,
+          "values": [
+            {
+              "value_name": "no",
+              "value_confidence": 0.8051242953203349,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.7552871014400062,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.8051242953203349,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with high confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med hög konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een high zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "yes",
+              "value_confidence": 0.19487570467966508,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.18281289855999383,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.19487570467966508,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "alcohol",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.9381,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.6844061739782742,
+          "values": [
+            {
+              "value_name": "no",
+              "value_confidence": 0.2704336702075747,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.25369382602172585,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.2704336702075747,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "yes",
+              "value_confidence": 0.7295663297924253,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.6844061739782742,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.7295663297924253,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "cannabis",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.9381,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.903249710878565,
+          "values": [
+            {
+              "value_name": "no",
+              "value_confidence": 0.9628501341845911,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.903249710878565,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.9628501341845911,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with high confidence based on all  your likes, your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med hög konfidens baserat på dina  gilla, inlägg, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks, posts, afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een high zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "yes",
+              "value_confidence": 0.03714986581540891,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.034850289121435105,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.03714986581540891,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes, your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, inlägg, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks, posts, afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "health status",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.9381,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.543650613052151,
+          "values": [
+            {
+              "value_name": "poor",
+              "value_confidence": 0.03621947819598393,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.033977492495652524,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.03621947819598393,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "good",
+              "value_confidence": 0.38425742932757334,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.3604718944521966,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.38425742932757334,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "very good",
+              "value_confidence": 0.5795230924764427,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.543650613052151,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.5795230924764427,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "coffee",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.9381,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.684926258735956,
+          "values": [
+            {
+              "value_name": "no",
+              "value_confidence": 0.2698792679501588,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.253173741264044,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.2698792679501588,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "yes",
+              "value_confidence": 0.7301207320498412,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.9381,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.684926258735956,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.7301207320498412,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dimension_name": "Employment",
+      "dimension_privacy_score": 0.3986423102668628,
+      "dimension_visibility_overall": 1.0,
+      "dimension_level_of_control": 0.7333333333333333,
+      "dimension_visibility_label": "FRIENDS",
+      "dimension_visibility_actual_audience": null,
+      "dimension_sensitivity": 0.83132,
+      "attributes": [
+        {
+          "normalized": true,
+          "attribute_name": "income",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.83132,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.35646257863028746,
+          "values": [
+            {
+              "value_name": "high",
+              "value_confidence": 0.25309248496520703,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.83132,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.2104008446012759,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.25309248496520703,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "low",
+              "value_confidence": 0.31811646149309136,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.83132,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.2644565767684367,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.31811646149309136,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "medium",
+              "value_confidence": 0.4287910535417017,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.83132,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.35646257863028746,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.4287910535417017,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "employment",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.83132,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.4408220419034382,
+          "values": [
+            {
+              "value_name": "other",
+              "value_confidence": 0.40974253119494125,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.83132,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.3406271610329785,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.40974253119494125,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "unemployed",
+              "value_confidence": 0.0599898920555058,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.83132,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.04987079706358308,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.0599898920555058,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "employed",
+              "value_confidence": 0.5302675767495528,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.83132,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.4408220419034382,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.5302675767495528,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dimension_name": "Religion",
+      "dimension_privacy_score": 0.2768522173219602,
+      "dimension_visibility_overall": 1.0,
+      "dimension_level_of_control": 0.7333333333333333,
+      "dimension_visibility_label": "FRIENDS",
+      "dimension_visibility_actual_audience": null,
+      "dimension_sensitivity": 0.53128,
+      "attributes": [
+        {
+          "normalized": true,
+          "attribute_name": "practice",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.53128,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.30996262387428986,
+          "values": [
+            {
+              "value_name": "no",
+              "value_confidence": 0.5834261102889058,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.53128,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.30996262387428986,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *"
+                  ],
+                  "support_confidence": 0.5834261102889058,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  inlägg,  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  posts,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "yes",
+              "value_confidence": 0.4165738897110942,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.53128,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.22131737612571012,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *"
+                  ],
+                  "support_confidence": 0.4165738897110942,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  inlägg,  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  posts,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "belief",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.53128,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.24374181076963053,
+          "values": [
+            {
+              "value_name": "judaism",
+              "value_confidence": 0.009687207736129867,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.53128,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.005146619726051075,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *"
+                  ],
+                  "support_confidence": 0.009687207736129867,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "agnosticism",
+              "value_confidence": 0.22060621683733708,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.53128,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.11720367088134044,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *"
+                  ],
+                  "support_confidence": 0.22060621683733708,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "other",
+              "value_confidence": 0.04471023643947216,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.53128,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.023753654415562767,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *"
+                  ],
+                  "support_confidence": 0.04471023643947216,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "islam",
+              "value_confidence": 0.022409859395980607,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.53128,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.011905910099896576,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *"
+                  ],
+                  "support_confidence": 0.022409859395980607,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "atheism",
+              "value_confidence": 0.4587822066888092,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.53128,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.24374181076963053,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *"
+                  ],
+                  "support_confidence": 0.4587822066888092,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "protestant",
+              "value_confidence": 0.12684839628309585,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.53128,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.06739201597728316,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *"
+                  ],
+                  "support_confidence": 0.12684839628309585,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "buddhism",
+              "value_confidence": 0.030404907574121145,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.53128,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.01615351929597908,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *"
+                  ],
+                  "support_confidence": 0.030404907574121145,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "catholic",
+              "value_confidence": 0.08655096904505413,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.53128,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.04598279883425636,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *"
+                  ],
+                  "support_confidence": 0.08655096904505413,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dimension_name": "Demographics",
+      "dimension_privacy_score": 0.21657059350858474,
+      "dimension_visibility_overall": 1.0,
+      "dimension_level_of_control": 0.7333333333333333,
+      "dimension_visibility_label": "FRIENDS",
+      "dimension_visibility_actual_audience": null,
+      "dimension_sensitivity": 0.46904,
+      "attributes": [
+        {
+          "normalized": true,
+          "attribute_name": "gender",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.46904,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.2840204855045737,
+          "values": [
+            {
+              "value_name": "female",
+              "value_confidence": 0.39446425570404714,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.46904,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.18501951449542628,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.39446425570404714,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "male",
+              "value_confidence": 0.6055357442959528,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.46904,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.2840204855045737,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.6055357442959528,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "degree",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.46904,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.19998868467863243,
+          "values": [
+            {
+              "value_name": "high school",
+              "value_confidence": 0.20205932531378681,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.46904,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.09477390594517857,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.20205932531378681,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "postgraduate",
+              "value_confidence": 0.42637874099998385,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.46904,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.19998868467863243,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.42637874099998385,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "bachelor",
+              "value_confidence": 0.37156193368622936,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.46904,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.17427740937618902,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.37156193368622936,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "nationality",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.46904,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.16570261034254805,
+          "values": [
+            {
+              "value_name": "Slovak",
+              "value_confidence": 0.032057398864328936,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.46904,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.015036202363324844,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.032057398864328936,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "Russian",
+              "value_confidence": 0.005194133167372298,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.46904,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.0024362562208243028,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.005194133167372298,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "Maltese",
+              "value_confidence": 0.019193732866437156,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.46904,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.009002628463673683,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.019193732866437156,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "Danish",
+              "value_confidence": 0.01718548672200189,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.46904,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.008060680692087766,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.01718548672200189,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "Bulgarian",
+              "value_confidence": 0.004070680038299114,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.46904,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.0019093117651638165,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.004070680038299114,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "German",
+              "value_confidence": 0.012348004417720207,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.46904,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.005791707992087486,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.012348004417720207,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "Belgian",
+              "value_confidence": 0.30883770910552794,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.46904,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.14485723907885684,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.30883770910552794,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "Swedish",
+              "value_confidence": 0.3532803392941925,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.46904,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.16570261034254805,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.3532803392941925,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "Other",
+              "value_confidence": 0.24783251552412,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.46904,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.11624336308143325,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.24783251552412,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dimension_name": "Psychology",
+      "dimension_privacy_score": 0.486684774222126,
+      "dimension_visibility_overall": 1.0,
+      "dimension_level_of_control": 0.7333333333333333,
+      "dimension_visibility_label": "FRIENDS",
+      "dimension_visibility_actual_audience": null,
+      "dimension_sensitivity": 0.77142,
+      "attributes": [
+        {
+          "normalized": true,
+          "attribute_name": "conscientiousness",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.77142,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.41427562937553064,
+          "values": [
+            {
+              "value_name": "conscientious",
+              "value_confidence": 0.5370299310045509,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.77142,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.41427562937553064,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.5370299310045509,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "unconscientious",
+              "value_confidence": 0.4629700689954491,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.77142,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.35714437062446935,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.4629700689954491,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "openness",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.77142,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.5713795002070826,
+          "values": [
+            {
+              "value_name": "open",
+              "value_confidence": 0.7406853597354004,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.77142,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.5713795002070826,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.7406853597354004,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "closed",
+              "value_confidence": 0.2593146402645996,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.77142,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.20004049979291744,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.2593146402645996,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "neuroticism",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.77142,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.5426355837946486,
+          "values": [
+            {
+              "value_name": "neurotic",
+              "value_confidence": 0.2965756866627147,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.77142,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.2287844162053514,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.2965756866627147,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes, your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla, inlägg, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks, posts, afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "stable",
+              "value_confidence": 0.7034243133372853,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.77142,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.5426355837946486,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.7034243133372853,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes, your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla, inlägg, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks, posts, afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "extraversion",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.77142,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.4174728557269763,
+          "values": [
+            {
+              "value_name": "extravert",
+              "value_confidence": 0.4588254702665522,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.77142,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.3539471442730237,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.4588254702665522,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "introvert",
+              "value_confidence": 0.5411745297334478,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.77142,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.4174728557269763,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.5411745297334478,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "agreeableness",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.77142,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.4876603020063919,
+          "values": [
+            {
+              "value_name": "agreeable",
+              "value_confidence": 0.6321592673334784,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.77142,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.4876603020063919,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.6321592673334784,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "disagreeable",
+              "value_confidence": 0.3678407326665216,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.77142,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.2837596979936081,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.3678407326665216,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dimension_name": "Politics",
+      "dimension_privacy_score": 0.4266156932768678,
+      "dimension_visibility_overall": 1.0,
+      "dimension_level_of_control": 1.0,
+      "dimension_visibility_label": "FRIENDS",
+      "dimension_visibility_actual_audience": null,
+      "dimension_sensitivity": 0.71758,
+      "attributes": [
+        {
+          "normalized": true,
+          "attribute_name": "ideology",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.71758,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.4266156932768678,
+          "values": [
+            {
+              "value_name": "left",
+              "value_confidence": 0.5945200441440227,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.71758,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.4266156932768678,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.5945200441440227,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "right",
+              "value_confidence": 0.4054799558559773,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.71758,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.29096430672313217,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.4054799558559773,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dimension_name": "Sexuality",
+      "dimension_privacy_score": 0.453977372565838,
+      "dimension_visibility_overall": 1.0,
+      "dimension_level_of_control": 0.7333333333333333,
+      "dimension_visibility_label": "FRIENDS",
+      "dimension_visibility_actual_audience": null,
+      "dimension_sensitivity": 0.54438,
+      "attributes": [
+        {
+          "normalized": true,
+          "attribute_name": "orientation",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.54438,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.453977372565838,
+          "values": [
+            {
+              "value_name": "homo/bi",
+              "value_confidence": 0.16606529893486532,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.54438,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.09040262743416198,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.16606529893486532,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes, your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, inlägg, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks, posts, afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "heterosexual",
+              "value_confidence": 0.8339347010651347,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.54438,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.453977372565838,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *",
+                    "POST *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.8339347010651347,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with high confidence based on all  your likes, your posts and the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med hög konfidens baserat på dina  gilla, inlägg, bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks, posts, afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een high zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dimension_name": "Relationships",
+      "dimension_privacy_score": 0.29134069914306426,
+      "dimension_visibility_overall": 1.0,
+      "dimension_level_of_control": 0.7333333333333333,
+      "dimension_visibility_label": "FRIENDS",
+      "dimension_visibility_actual_audience": null,
+      "dimension_sensitivity": 0.59166,
+      "attributes": [
+        {
+          "normalized": true,
+          "attribute_name": "living situation",
+          "attribute_level_of_control": 1.0,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.59166,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.3334099397016505,
+          "values": [
+            {
+              "value_name": "alone or with friend(s)",
+              "value_confidence": 0.563516106719485,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.59166,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.3334099397016505,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.563516106719485,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with medium confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med medium konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een medium zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "with my own family",
+              "value_confidence": 0.41507449590736484,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.59166,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.24558297624855147,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.41507449590736484,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "with my parents",
+              "value_confidence": 0.021409397373150067,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.59166,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 1.0,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.012667084049797968,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "POST *",
+                    "LIKE *",
+                    "LIKE *"
+                  ],
+                  "support_confidence": 0.021409397373150067,
+                  "support_level_of_control": 1.0,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  your likes and your posts (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  gilla, inlägg (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  vind-ik-leuks,  posts (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "normalized": true,
+          "attribute_name": "relationship status",
+          "attribute_level_of_control": 0.7333333333333333,
+          "attribute_visibility_label": "FRIENDS",
+          "attribute_sensitivity": 0.59166,
+          "attribute_visibility_actual_audience": null,
+          "attribute_visibility_overall": 1.0,
+          "attribute_privacy_score": 0.249271458584478,
+          "values": [
+            {
+              "value_name": "single",
+              "value_confidence": 0.42130862080329584,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.59166,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.249271458584478,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *"
+                  ],
+                  "support_confidence": 0.42130862080329584,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "in relationship",
+              "value_confidence": 0.34832507846591504,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.59166,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.20609001592514328,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *"
+                  ],
+                  "support_confidence": 0.34832507846591504,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with low confidence based on all  the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med låg konfidens baserat på dina  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            },
+            {
+              "value_name": "married",
+              "value_confidence": 0.23036630073078904,
+              "value_visibility_label": "FRIENDS",
+              "value_sensitivity": 0.59166,
+              "value_visibility_actual_audience": null,
+              "value_level_of_control": 0.7333333333333333,
+              "value_visibility_overall": 1.0,
+              "value_privacy_score": 0.13629852549037863,
+              "value_is_inferred": null,
+              "supports": [
+                {
+                  "support_inference_mechanism": "CLASSIFIER_FROM_PRE_PILOT_DATA",
+                  "support_data_pointer_ids": [
+                    "IMAGE *"
+                  ],
+                  "support_confidence": 0.23036630073078904,
+                  "support_level_of_control": 0.7333333333333333,
+                  "support_visibility": 1.0,
+                  "support_visibility_label": "FRIENDS",
+                  "support_description_en": "These results have been inferred with very low confidence based on all  the visual concepts detected in your images (please check your <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\"> profile</a>!)",
+                  "support_description_sw": "Dessa resultat har beräknats med mycket låg konfidens baserat på dina  bilder (vänligen kontrollera din <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profil</a>!)",
+                  "support_description_du": "Deze resultaten werden van je  afbeeldingen (bekijk je <a target=\"_blank\" href=\"http://www.facebook.com\\10153345649555260\">profiel</a> a.u.b.!) afgeleid met een very low zekerheid",
+                  "support_is_main": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

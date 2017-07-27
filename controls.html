@@ -1,0 +1,830 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>USEMP</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="User empowerment for enhanced online management">
+    <meta name="robots" content="index, follow"/>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="author" content="laaposto">
+
+    <link rel="shortcut icon" href="img/favicon.ico"/>
+
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700&subset=latin,cyrillic-ext,greek-ext,greek,latin-ext,cyrillic'
+          rel='stylesheet' type='text/css'>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/controls/main.css">
+    <!--END CSS -->
+
+</head>
+<body>
+<div id="myModal" class="reveal-modal">
+    <h1></h1>
+
+    <p></p>
+    <a class="close-reveal-modal">&#215;</a>
+</div>
+<div id="myModal2" class="reveal-modal">
+    <div id="tour1">
+        <div class="navigation" style="float: right;">
+            <span class="tour_next" data-next="tour2"
+                  style="color:#004080;font-weight: bold;cursor: pointer">A taxonomy of personal information on social networks<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+        <h2 style="color:#004080">An introduction to disclosure control in social networks</h2>
+        <br>
+        <br>
+        <img src="img/databait-logo.png" height="100px"/>
+        <br>
+        <br>
+        It is not an exaggeration to say that social networks have transformed the overall Internet landscape! Social
+        networks have affected the way people communicate, are being informed or even make business online. An issue
+        that is
+        sometimes overlooked though is the exposure of personal information through the social networks. Participation
+        at a
+        social network means that a certain amount of data related to the user is accessible from a) other social
+        network
+        users and b) the social network service itself. The disclosure of specific types of information may pose serious
+        threats to the users though. A relevant example that has attracted considerable attention is a <a
+            href="http://pleaserobme.com/">tool</a> that analyzes Twitter accounts in order to identify the physical
+        location of their owners, unveiling a potential vulnerability of the users' residence. In other cases,
+        information
+        about the gender, age, ethnicity, political or religious beliefs, sexual preferences, and financial status of a
+        person have been used for unjustified discrimination, for instance, in the context of personnel selection and
+        for
+        loan approval and pricing based on social media profiles. Within the Databait tool, risks associated with the
+        disclosure of different types of information are shown through the disclosure scoring framework when you hover
+        over
+        the nodes of the different dimensions and attributes.
+        <br>
+        <br>
+
+        It is interesting to note though that people's attitude towards information disclosure differs significantly.
+        For
+        instance, <a href="http://www.sciencedirect.com/science/article/pii/S1071581913000852">[Knijneburg]</a>
+        identifies
+        three main classes of users with respect to the level of information disclosure in OSNs:
+        <ol>
+            <li> Privacy fundamentalists</li>
+            <li> Pragmatists</li>
+            <li> Unconcerned</li>
+        </ol>
+
+        Privacy fundamentalists avoid to share any content at all at the social network, pragmatists do share content
+        but
+        are careful about the content that they share and unconcerned users post anything without considering privacy at
+        all. Clearly, unconcerned users have the highest risk; however, pragmatists also run risks. In fact, it appears
+        that
+        most users, regardless of their attitude towards privacy, seem to have difficulties managing their information
+        disclosure. For instance, in a seminal study by <a
+            href="http://ieeexplore.ieee.org/document/6197507/?arnumber=6197507&tag=1">[Madejski]</a>, 65 users were
+        asked
+        to look for any sharing violations in their OSN profiles, that is to find cases in which they shared content
+        with
+        people that they really would not like to. Indeed, all 65 users found that they had at least one sharing
+        violation.
+        <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2031979">[Acquisti]</a> attributed this behaviour to
+        incomplete information, bounded cognitive ability and cognitive and behavioural biases, which may be caused by
+        difficult to find settings and opt-out defaults. This is where Databait comes to play and attempts to assist
+        users
+        in taking appropriate decisions about controlling their presence at a social network.
+        <br>
+        <br>
+        One of the tools provided by Databait for raising awareness regarding information disclosure and assisting the
+        user to adjust their present online is a list of suggestions for particular pieces of content the sharing
+        settings of which you may need to reconsider. Please note though that due to Facebook API constraints, the
+        Databait application is not allowed to make direct changes to your sharing settings, and therefore the
+        suggestions, if you decide to follow them will need to be applied directly to Facebook, rather than through
+        Databait. Complementary to the tools provided by Databait, in the following, we provide a tutorial for assisting
+        the users to control their presence at the social network. The first part of the tutorial provides some
+        theoretical introduction about the different types of personal data that is shared on social networks, as well
+        as about some legal issues that are related to the duties of OSN providers as well as the rights of the users.
+        Building on the legal discussion, we also look at the profiling that is made by Facebook. Subsequently, the
+        second part of this tutorial discusses in detail the sharing options and tools offered by Facebook for managing
+        privacy. The hope is that this tutorial, in conjunction with the tools offered by Databait, will substantially
+        assist users to better control their presence at the social network.
+        <br>
+        <br>
+
+        <div class="navigation" style="text-align: center">
+            <span class="tour_next" data-next="tour2"
+                  style="color:#004080;font-weight: bold;cursor: pointer">A taxonomy of personal information on social networks<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+    </div>
+    <div id="tour2" style="display: none;">
+        <div class="navigation" style="float: right">
+            <span class="tour_prev" data-prev="tour1"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">An introduction to disclosure control in social networks</span>
+            <span class="tour_next" data-next="tour3"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Legal considerations: duties of OSN providers and rights of users<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+        <h2 style="color:#004080">A taxonomy of personal information on social networks</h2>
+        Before looking at practical details and guidelines for controling disclosure settings, we first discuss a number
+        of issues that are important to assist the user to better perceive the disclosure of their information through
+        the OSN. We start with presenting a taxonomy of user data in social networks. This taxonomy considers the source
+        of data about a user, rather than the type of personal information (as e.g. in the disclosure scoring
+        framework). This will allow us to distinguish between different levels of privacy and to identify the limits to
+        which a social network user can control the disclosure of their information. The taxonomy has been defined by <a
+            href="https://www.schneier.com/essays/archives/2010/07/a_taxonomy_of_social.html">[Schneier]</a>. Briefly,
+        Schneier identifies the following six categories of OSN data:
+        <br>
+        <ul>
+            <li> Service data. This is the set of data that a user explicitly provides to the OSN service. In many
+                cases, this includes the user’s legal name, age, gender, etc.
+            </li>
+            <li> Disclosed data. This includes the content (messages, status updates, photos, etc.) posted by the user
+                to his own page.
+            </li>
+            <li> Entrusted data. This is the content posted by the user to the page of another user. It is similar to
+                disclosed data, with the difference that, in many cases, the user does not have full control of the
+                content, but some other user does.
+            </li>
+            <li> Incidental data. This is the content posted about the user by some other user (e.g. when a friend of
+                the user posts a picture depicting the user). Again, this is similar to disclosed data, but again, the
+                user does not have control of the content.
+            </li>
+            <li> Behavioural data. This type of data includes the actions of the user in the OSN. For instance, this may
+                include information about which profiles the user visits, what games s/he plays, what pages s/he likes,
+                etc.
+            </li>
+            <li> Derived or inferred data. This is data about a user that may be derived from all other types of data,
+                typically by means of algorithmic processes. We will also refer to such kind of data as inferred or
+                inferences.
+            </li>
+        </ul>
+        <br>
+        Schneier's taxonomy identifies that the level of control a user has over the data that concern him/her may vary
+        significantly depending on the above categories. For instance the user typically has full control over the
+        personal details that he/she explicitly provides to the social network in order to register with the service
+        (service data) and that he/she deliberately posts to his/her profile (disclosed data). On the other hand, the
+        user's control is limited over data that he/she posts on other people's profiles (entrusted data), data about
+        him/her that is posted from other users (incidental data) and that that has resulted from analysing other data
+        (derived or inferred data).
+        <br>
+        <br>
+        Based on the above, it is useful to make the following remarks:
+        <ul>
+            <li> Social network users typically focus on disclosed data and often on entrusted and incidental data.
+                Nevertheless, other types of data are also important for privacy; in particular, <b>inferred data</b>
+                are very likely to disclose potentially sensitive information. Within Databait, there is a particular
+                focus on inferred data. That is, within the disclosure scoring framework, the user can examine the
+                different types of information that can be inferred about him/her. It should be kept in mind that these
+                inferences come with some uncertainty due to the statistical nature of the related inference models.
+                Nevertheless, even in an application of this scale, the accuracy of the inferences is on average quite
+                accurate and suffices to show the scope of possible inferences.
+            </li>
+            <li> The social network service typically has access to all those types of data. In fact, one can identify
+                two different types of privacy: social privacy, where privacy concerns the disclosure of information to
+                the other users of the social network, and <b>institutional privacy</b>, where privacy concerns the
+                disclosure of information to the social network service itself. It is also important to note that the
+                inferences that can be made by the social network service are much more elaborate and accurate than
+                those offered by Databait, as the social network service has access to a much larger pool of data that
+                it can use to base its predictions on. Additionally, it is important to note that the social network
+                service typically does not seem to forget any data, even when the users delete it. Therefore, it is
+                important to consider before posting anything that data never really completely disappears from a social
+                network.
+            </li>
+            <li><b>Behavioural data</b> may disclose much more information than one may initially think of and much more
+                than other types of data. Behavioural data are typically not observed by third parties, only by the
+                social network service. It should be noted that there are clear indications that the service utilizes
+                this data, nevertheless, it is unclear exactly how.
+            </li>
+        </ul>
+        <br>
+        <br>
+
+        <div class="navigation" style="text-align: center">
+            <span class="tour_prev" data-prev="tour1"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">An introduction to disclosure control in social networks</span>
+            <span class="tour_next" data-next="tour3"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Legal considerations: duties of OSN providers and rights of users<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+    </div>
+    <div id="tour3" style="display: none;">
+        <div class="navigation" style="float: right">
+            <span class="tour_prev" data-prev="tour2"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">A taxonomy of personal information on social networks</span>
+            <span class="tour_next" data-next="tour4"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">User profiling by Facebook<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+        <h2 style="color:#004080">Legal considerations: duties of OSN providers and rights of users</h2>
+        How can users of online platforms know what can be inferred from their online disclosures and behavior, who has
+        access to this information and how it can be used commercially and otherwise? According to EU data protection
+        law, providers of online services who process information relating to individuals have all kind of duties. These
+        duties include, for example, that a data controller only collects and processes data based on one of the legal
+        grounds listed in Art. 6(1) GDPR 2016/679 (for example, a legitimate interest of the controller that is not
+        overruled by user interests, explicit user consent or a contract the user that necessitates processing), that
+        she does not process data in a way that is unforeseeable (that is, incompatible with the specified, explicit and
+        legitimate purposes set out at the moment of data collection), that she keeps the data safe, secure and
+        up-to-date, and that she deletes them as soon as they are no longer necessary. Data controllers also have
+        certain informational duties (see Arts. 12-15 GDPR 2016/679) with regard to their users when they process their
+        data. These informational duties include providing some basic information at the time of data collection (e.g.,
+        purpose for collecting the data, contact details of the data controller, persons to whom the data may be
+        disclosed, indication when the data will be deleted, existence of the right of access and rectification) and the
+        duty to provide access to the data upon a user’s request. When data processing includes profiling of users,
+        these informational duties also entail that the data controller has to inform users about the fact that they are
+        subjected to profiling and provide “meaningful information about the logic involved, as well as the significance
+        and the envisaged consequences of such processing for the data subject”.
+        <br>
+        <br>
+
+        <div class="navigation" style="text-align: center">
+            <span class="tour_prev" data-prev="tour2"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">A taxonomy of personal information on social networks</span>
+            <span class="tour_next" data-next="tour4"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">User profiling by Facebook<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+    </div>
+    <div id="tour4" style="display: none;">
+        <div class="navigation" style="float: right">
+            <span class="tour_prev" data-prev="tour3"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">Legal considerations: duties of OSN providers and rights of users</span>
+            <span class="tour_next" data-next="tour5"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Sharing settings basics<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+        <h2 style="color:#004080">User profiling by Facebook</h2>
+        In this section we attempt to look at the user profiling that is done by Facebook. Often users have a very vague
+        idea of this and in the following we attempt to clarify a few things about it.
+        <br>
+        During the last few years one can see that large internet companies like Facebook or Google make increasing
+        efforts in their experimentation with various ways of informing users about why they see certain advertisements.
+        So, from late 2014 onwards, Facebook has been experimenting with the provision of information in two formats: in
+        an informational section about the users advert preferences and in informational pop-ups linked to
+        advertisements shown to users. The exact content of both formats changes frequently – probably because it is
+        still in the experimental trial-and-error stage. At the time of writing (August 2016) the content of these two
+        sections is the following:
+
+        <ol>
+            <li><b>Facebook's informational section about the users advert preferences.</b> This section (see figure
+                below) contains general information about the way advertisements are targeted at the user, a 'your info'
+                page (which invites the user to update and extend her profile information), a list of advert preferences
+                ('interests'), and a list of advertisers with the user's contact info.
+                <img src="img/kat1_2.jpg"/><br>
+                Figure 1. Facebook's informational section about the users advert preferences
+                <br>
+                <br>
+                It goes beyond the scope of this tutorial to look in detail at each of these subsections. However, in
+                relation to DataBait it is particularly interesting to take a close look at the list of advert
+                preferences. Each user can now inspect (and adjust) the list of the advert preferences that Facebook
+                attributes to her (next figure).<br>
+                <img src="img/kat3_4.jpg"/><br>
+                Figure 2. Two examples of sub-lists ('Hobbies and activities' and 'Travel, places, events') from the
+                complete list of the advert preferences ('interests') that Facebook attributes to a user. When clicked,
+                each interest comes with a possible explanation as to why Facebook attributes this interest to the user
+                (see the pop-up 'About Keel', in the lower left corner).
+                <br>
+                <br>
+                <img src="img/kat5.jpg"/><br>
+                Figure 3. Facebook offers examples of advertisements that could be shown based on an interest.
+                <br>
+                <br>
+                Each interest (e.g., 'Protest', 'Wifi Connection', 'Park' or 'Away from hometown') comes with some
+                examples of advertisements that could be shown based on it (figure 3) and an explanation (figure 2) as
+                to how it was inferred. Examples of such explanations:
+
+                <ul>
+                    <li>'Protest: You have this preference because you liked a Page related to Protest'
+                    <li>'Wifi Connection: You have this preference because we think it may be relevant to you based on
+                        what you do on Facebook'
+                    <li>'Park: You have this preference because you clicked on an advert related to Park.'
+                    <li>'Away from hometown: You have this preference because we think it may be relevant to you based
+                        on what you do on Facebook'
+                </ul>
+
+                The explanations are both illuminating as well as opaque. It is illuminating to know that my profile for
+                advertisements contains inferred interests such as 'Protest', 'Wifi Connection', 'Park' or 'Away from
+                hometown'. It is also illuminating to know that the inference of some of these interests is based on
+                likes, others on advertisement clicks and others on 'what you do on Facebook'. However, not all of these
+                explanations make it easy to trace the attributed interest back to the actual behavior that caused the
+                attribution. This is particularly clear with an explanation like 'based on what you do on Facebook' –
+                which is very general. The explanation 'because you clicked on an advert related to Park' is also
+                difficult to relate to actual behavior: a user might not remember clicking on an ad, nor think of this
+                ad as relating to 'Park'. The explanation 'because you liked a Page related to Protest' is a little
+                better, because a user can inspect her list of likes and guess which of these likes is qualified as
+                being related to 'Protest'. Still, guessing which liked page qualifies as related to protest is not
+                necessarily very obvious. Is it the like for a page that advocates diminishing foodwaste? Or the like
+                for a page that is critical of unrestrained surveillance and data collection? Or some completely
+                different like?
+
+            <li><b>Facebook's informational pop-ups linked to advertisements shown to users.</b> Facebook gives some
+                additional information about the logic of targeted advertisements in the way shown in figure 4. It is
+                only when users hover over the portrayed ad that a cross appears in the upper right corner. If a user
+                would then click on this cross, then they are shown three options (see figure 4).
+                <img src="img/kat6_7.jpg"/><br>
+                Figure 3. Facebook offers a (slightly hidden) button on top of each displayed advertisement that offers
+                some information as to why a user is presented with it.
+                <br>
+                <br>
+                It is only when users click on the second option ‘Why am I seeing this?', that they are informed of
+                possible reasons for seeing this ad:
+                <ul>
+                    <li>One reason why you're seeing this advert is that <a
+                            href="https://www.facebook.com/seatsandsofas.be/">Seats and Sofas België</a> wants to reach
+                        people who were <b>recently near their business</b>. This is based on information from your
+                        Facebook profile and your mobile device.
+                    <li>There may be other reasons why you're seeing this advert, including that Seats and Sofas België
+                        wants to reach <b>people aged 25 to 64 who live near Mechelen, Flemish Region</b>. This is
+                        information based on your Facebook profile and where you've connected to the Internet.
+                </ul>
+                The first explanation is quite straightforward, the second one includes an interesting caveat ('There
+                may be other reasons you saw this ad'). While Facebook informs, it still does not refer to the data that
+                actually linked this ad to a particular user, it only refers to possibilities.
+        </ol>
+        <br>
+        <br>
+
+
+        <div class="navigation" style="text-align: center">
+            <span class="tour_prev" data-prev="tour3"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">Legal considerations: duties of OSN providers and rights of users</span>
+            <span class="tour_next" data-next="tour5"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Sharing settings basics<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+    </div>
+    <div id="tour5" style="display: none;">
+        <div class="navigation" style="float: right">
+            <span class="tour_prev" data-prev="tour4"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">User profiling by Facebook</span>
+            <span class="tour_next" data-next="tour6"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Creating friends' lists<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+        <h2 style="color:#004080">Sharing settings basics</h2>
+        In the first part of this tutorial we looked at a number of issues related to information disclosure on OSNs.
+        This included a taxonomy of types of data shared on OSNs as well as some legal aspects of information
+        disclosure. In the second part of the tutorial, in this and the next sections until the end of the tutorial, we
+        look at the tools and options offered by Facebook for controling information disclosure. In this section in
+        particular, we start with the very elementary options that a offered. The figure below shows the box that
+        appears
+        at the top of a Facebook user's profile and that allows users to
+        post new content.
+        <br>
+        <br>
+        <img src="img/basic_post.png"/>
+        <br>
+        <br>
+        Please note that the user can post three different types of data depending on which tab of the box is selected:
+        status, photo / video or life event. Particularly important for privacy are the following options:
+        <ul>
+            <li> By clicking on the <img src="img/tag.png"/> icon, the user can tag other users. By doing this, the
+                user directly provides information about other users. Of course, the user that has been tagged can
+                remove the tag; however, it should be clear that disclosure of our information may sometimes be out of
+                our control, since other users can share information about us.
+            <li> By clicking on the <img src="img/location.png"/> icon, the user can provide his / her location.
+                This action explicitly provides potentially sensitive information about the user. It is often the case
+                also that posts are automatically tagged with location information, regardless of the fact that the user
+                may not have explicitly provided it.
+        </ul>
+        By clicking on the drop down list next to the post button, the user can set the audience that will have access
+        to the shared content. The options are: public, friends, only me and custom. It is important to note that
+        selecting one of these options, also changes the default option for future posts. In the 'custom' option, the
+        user can explicitly define which of his friends to share or not to share the content with (please see the next
+        figure).
+        </ul>
+        <br>
+        <br>
+        <img src="img/custom.png"/>
+        <br>
+        <br>
+
+
+        Before posting some content on a social network it is important for a person to ask himself the following
+        questions:
+        <ul>
+            <li> Is the content I am about to share sensitive or reveals any information about me that I am not be very
+                comfortable about making public?
+            <li> Who will be able to see this data? In fact, it is useful for a user to, once in a while, examine their
+                list of friends. This wil make them to better perceive their audience. Managing friends is an important
+                issue that we will come back to in the next section.
+        </ul>
+
+
+        It is also important to know that privacy settings can also change after some piece of content has been posted.
+        This is shown in the next image.
+        <br>
+        <br>
+        <img src="img/basic_change_audience.png"/>
+        <br>
+        <br>
+
+        <div class="navigation" style="text-align: center">
+            <span class="tour_prev" data-prev="tour4"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">User profiling by Facebook</span>
+            <span class="tour_next" data-next="tour6"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Creating friends' lists<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+    </div>
+    <div id="tour6" style="display: none;">
+        <div class="navigation" style="float: right">
+            <span class="tour_prev" data-prev="tour5"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16"
+                    style="position: relative;top: 3px;">Sharing settings basics</span>
+            <span class="tour_next" data-next="tour7"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Managing the disclosure of your profile info<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+        <h2 style="color:#004080">Creating friends' lists</h2>
+
+        As mentioned in the previous section, when setting the audience for some new or existing piece of content, the
+        user can define a custom set of users that consists of either a newly defined set of users or a previously
+        defined list of users. Indeed, users can group their friends and create lists of friends, according to the type
+        of relationship that they have with them. This can be done by clicking on the 'friends' link that can be found
+        on the left column of their news feed as shown in the following figure.
+        <br>
+        <br>
+        <img src="img/create_list1.png"/>
+        <br>
+        <br>
+
+        From there, the user can manage their friends lists, e.g. the following figure shown the interface for creating
+        a new list.
+        <br>
+        <br>
+        <img src="img/create_list2.png"/>
+        <br>
+        <br>
+
+        Friends lists are a very powerful tool that allows the user to simplify the task of defining their sharing
+        settings. Moreover, friends' lists allow the user to better perceive their audience. That is, by grouping the
+        audience in meaningful sets, it is easier to figure out if some content should not be shared with some other
+        friend.
+
+        <br>
+        <br>
+
+        <div class="navigation" style="text-align: center">
+            <span class="tour_prev" data-prev="tour5"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16"
+                    style="position: relative;top: 3px;">Sharing settings basics</span>
+            <span class="tour_next" data-next="tour7"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Managing the disclosure of your profile info<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+    </div>
+    <div id="tour7" style="display: none">
+        <div class="navigation" style="float: right">
+            <span class="tour_prev" data-prev="tour6"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16"
+                    style="position: relative;top: 3px;">Creating friends' lists</span>
+            <span class="tour_next" data-next="tour8"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Images privacy<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+        <h2 style="color:#004080">Managing the disclosure of your profile info</h2>
+
+        Apart from the disclosure of information through posted content, users also often provide explicit profile
+        information to the social network service that is sometimes disclosed without the user being aware of it. This
+        includes information, such as their mobile phone number, their education, the members of their family, etc.
+        Sometimes also, such information is provided by other users. Nevertheless, the user may prefer to avoid sharing
+        such information. In order to change the sharing settings of profile information of their profiles, users must
+        go to the 'about' section of their profile. As shown in the following image, the different parts of the profile
+        of the user are listed on the left.
+        <br>
+        <br>
+        <img src="img/profile.png"/>
+        <br>
+        <br>
+        The user can then select each category, examine the information under it and change the sharing settings. In the
+        example shown in the image above for instance, information about the college attended by the user is only
+        visible to him / her.
+
+        <br>
+        <br>
+
+        <div class="navigation" style="text-align: center">
+            <span class="tour_prev" data-prev="tour6"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16"
+                    style="position: relative;top: 3px;">Creating friends' lists</span>
+            <span class="tour_next" data-next="tour8"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Images privacy<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+    </div>
+    <div id="tour8" style="display: none">
+        <div class="navigation" style="float: right">
+            <span class="tour_prev" data-prev="tour7"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">Managing the disclosure of your profile info</span>
+            <span class="tour_next" data-next="tour9"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Examining the activity log<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+        <h2 style="color:#004080">Images privacy</h2>
+
+        Sharing settings of images in Facebook is also straightforward but has a couple of caveats. The basic point is
+        that photos privacy can be controlled on a per album basis, that is, the user can define sharing settings
+        similar to those of posts for each of their photo albums.
+
+        One first caveat is that the profile image is always public. This is shown in the following image, in which it
+        is mentioned that adjusting the audience of the profile image does not change the privacy settings of the image
+        itself, it just changes the access to the comments, likes and description of the image (the image itself is
+        always public). The same holds for the cover photo at the top of the page.
+        <br>
+        <img src="img/profile_image.png"/>
+        <br>
+        Nevertheless, the user can change the privacy of all other photos in the 'Cover photos' and 'Profile Pictures'
+        albums.
+        <br>
+        <br>
+        Moreover, unlike other photo albums you create, you can choose an audience for individual photos in your
+        Timeline Photos and Mobile Uploads albums. Each time you post a new photo, you choose who sees that photo using
+        the audience selector.
+        <br>
+        <br>
+
+        <div class="navigation" style="text-align: center">
+            <span class="tour_prev" data-prev="tour7"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">Managing the disclosure of your profile info</span>
+            <span class="tour_next" data-next="tour9"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Examining the activity log<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+    </div>
+    <div id="tour9" style="display: none">
+        <div class="navigation" style="float: right">
+            <span class="tour_prev" data-prev="tour8"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">Images privacy</span>
+            <span class="tour_next" data-next="tour10"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">View profile as<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+        <h2 style="color:#004080">Examining the activity log</h2>
+
+        In this and the following sections, we look at some tools offered by Facebook that assist the definition of
+        sharing settings. The first one is the activity log that summarizes recent activity by the user. In order to
+        access it, click on the 'Privacy Shortcuts' icon at the main menu at the top of the page, as shown on the
+        following picture.
+        <br>
+        <br>
+        <img src="img/main_actions_settings.png"/>
+        <br>
+        <br>
+        When clicking on the activity log link, the user is shown a list similar to the one shown in the next figure,
+        through which the user can control if the relevant activity will be shown on the user's timeline or not.
+        <br>
+        <br>
+        <img src="img/activity_log.png"/>
+        <br>
+        <br>
+
+        <div class="navigation" style="text-align: center">
+            <span class="tour_prev" data-prev="tour8"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">Images privacy</span>
+            <span class="tour_next" data-next="tour10"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">View profile as<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+    </div>
+    <div id="tour10" style="display: none">
+        <div class="navigation" style="float: right">
+            <span class="tour_prev" data-prev="tour9"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">Examining the activity log</span>
+            <span class="tour_next" data-next="tour11"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Blocking other users<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+        <h2 style="color:#004080">View profile as</h2>
+        Another very useful tool that is offered by Facebook allows the users to examine their profiles as seen by other
+        users. This function is again accessible through the 'Privacy Shortcuts' icon at the main menu at the top of the
+        page. Once clicked, the user can select a friend (or just select 'public') and accordingly see how his / her
+        profile looks like. This is shown in the following figure.
+        <br>
+        <br>
+        <img src="img/view_as.png"/>
+        <br>
+        <br>
+
+        <div class="navigation" style="text-align: center">
+            <span class="tour_prev" data-prev="tour9"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">Examining the activity log</span>
+            <span class="tour_next" data-next="tour11"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Blocking other users<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+    </div>
+    <div id="tour11" style="display: none">
+        <div class="navigation" style="float: right">
+            <span class="tour_prev" data-prev="tour10"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">View profile as</span>
+            <span class="tour_next" data-next="tour12"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Applications<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+        <h2 style="color:#004080">Blocking other users</h2>
+
+        Facebook also allows users to protect their privacy by selecting who may contact them. As shown on the following
+        figure, the two options are 'everyone' and 'friends of friends'.
+        <br>
+        <br>
+        <img src="img/blocking_friends.png"/>
+        <br>
+        <br>
+        Moreover, users can opt for completely ignoring specific users, as shown on the following figure.
+        <br>
+        <br>
+        <img src="img/ignore.png"/>
+        <br>
+        <br>
+
+        <div class="navigation" style="text-align: center">
+            <span class="tour_prev" data-prev="tour10"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">View profile as</span>
+            <span class="tour_next" data-next="tour12"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Applications<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+    </div>
+    <div id="tour12" style="display: none">
+        <div class="navigation" style="float: right">
+            <span class="tour_prev" data-prev="tour11"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">Blocking other users</span>
+            <span class="tour_next" data-next="tour13"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Final guidelines<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+        <h2 style="color:#004080">Applications</h2>
+        Facebook applications, like Databait, obtain access to your Facebook data. That is, when the application is
+        approved by the user, the user grants access rights to the application and the application can then retrieve
+        data related to the user directly from Facebook. The particular access rights obtained by the application
+        determine exactly which data the application can retrieve, e.g. the list of friends, posts, etc. In some cases,
+        the application also has the right to post on the user's profile.
+        <br>
+        <br>
+        In some cases, applications may be a major threat for the disclosure of personal information. It is not unusual
+        that an application is installed and obtains access to the user's data without the user realizing it. This may
+        happen for instance with some sort of phishing, where the user simply clicks on a random link or button that
+        resembles a like button.
+        <br>
+        <br>
+        It is advisable that users regularly check the list of their applications and examine the access rights that the
+        applications have. In order to do this, click on 'Apps' on the column on the left of your news-feed and then
+        click on settings. This will show a list of applications similar to that in the figure below.
+        <br>
+        <br>
+        <img src="img/applications_1.png"/>
+        <br>
+        <br>
+        When you put your mouse over an application, you will see an 'Edit Settings' button. Clicking on it you will see
+        the details of the application and the access rights that it has, just like in the figure below.
+        <br>
+        <br>
+        <img src="img/applications_2.png"/>
+        <br>
+        <br>
+        Regardless of any changes to the settings of an application though, it is important to keep in mind that once an
+        application gets access to your data, it is unclear what happens with it and control over it may be permanently
+        lost. For instance, please see the following message that is displayed when removing an application.
+        <br>
+        <br>
+        <img src="img/applications_3.png"/>
+        <br>
+        <br>
+
+        <div class="navigation" style="text-align: center">
+            <span class="tour_prev" data-prev="tour11"
+                  style="color:#004080;font-weight: bold;cursor: pointer;border-right: 3px solid gray;padding-right: 10px;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">Blocking other users</span>
+            <span class="tour_next" data-next="tour13"
+                  style="color:#004080;font-weight: bold;cursor: pointer;margin-left: 5px">Final guidelines<img
+                    src="img/right_arrow.png" width="16" style="position: relative;top: 3px;"></span>
+        </div>
+    </div>
+    <div id="tour13" style="display: none">
+        <div class="navigation" style="float: right">
+            <span class="tour_prev" data-prev="tour12"
+                  style="color:#004080;font-weight: bold;cursor: pointer;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">Applications</span>
+        </div>
+        <h2 style="color:#004080">Final guidelines</h2>
+
+        <br>
+        <br>
+        <img src="img/databait-logo.png" height="100px"/>
+        <br>
+        <br>
+
+        This tutorial concludes with a list of some guidelines that should be kept in mind with respect to information
+        disclosure in the social networks:
+        <ul>
+            <li><i> Institutional privacy</i>, that is, the disclosure of information to the social network service
+                should not be overlooked. It is not always clear how the social network handles the data.
+            </li>
+            <li> Once some content is posted, complete control over it is lost. <i>It is not clear whether the social
+                network ever actually deletes any content</i>, regardless of the fact that you may have deleted it from
+                your profile. This poses further concerns about institutional privacy.
+            </li>
+            <li> Moreover, once some content is posted, <i>it may very easily be shared or copied by other users</i>,
+                thus reducing the amount of control that the user has over the content.
+            </li>
+            <li><i>Inferred data</i> is important. More things may be disclosed than one may first think. In addition,
+                the social network can produce very elaborate inferences as it has in its disposal a huge amount of
+                data.
+            </li>
+            <li> Content posted about you from other users, <i> incidental data, may reveal a lot about you</i>. In some
+                cases, the user can delete the content (if it is posted in their own profile) or untag themselves. It is
+                important for users to keep track of notifications about other people tagging them and carefully
+                examining posts by other users on their profiles.
+            </li>
+            <li><i>Applications are a major source of information leak</i>. Users should regularly examine the
+                applications that they are using and the access rights that they have.
+            </li>
+            <li><i>It is important to be comfortable with the </i>privacy tools offered by the social network. Often
+                the tools or settings may change without much notice and the user should be constantly try to follow any
+                changes.
+            </li>
+            <li> Take advantage of third party tools, like Databait, that can help you to better control the
+                disclosure of your information!
+            </li>
+        </ul>
+
+        <div class="navigation" style="text-align: center">
+            <span class="tour_prev" data-prev="tour12"
+                  style="color:#004080;font-weight: bold;cursor: pointer;"><img
+                    src="img/left_arrow.png" width="16" style="position: relative;top: 3px;">Applications</span>
+        </div>
+    </div>
+    <a class="close-reveal-modal">&#215;</a>
+</div>
+<header class="top-nav">
+    <div class="top-nav-inner"><span id="title"></span>
+    </div>
+</header>
+<a href="index.html" class="scoring_link">Scoring</a>
+<a href="controls_ext.html" class="extend_link">Controls Extended Version</a>
+<div id="buttons_upper">
+    <div class="btn_material active" id="likes"></div>
+    <div class="btn_material" id="posts"></div>
+    <div class="btn_material" id="images"></div>
+</div>
+<div id="buttons">
+    <div class="btn_material active" id="Demographics"></div>
+    <div class="btn_material active" id="Hobbies"></div>
+    <div class="btn_material active" id="Employment"></div>
+
+    <div class="btn_material active" id="Relationships"></div>
+    <div class="btn_material active" id="Religion"></div>
+    <div class="btn_material active" id="Sexuality"></div>
+
+    <div class="btn_material active" id="Politics"></div>
+    <div class="btn_material active" id="Health"></div>
+    <div class="btn_material active" id="Psychology"></div>
+</div>
+<p class="likes_p" id="likes_p"></p>
+
+<p class="likes_p" id="posts_no"></p>
+
+<p class="likes_p" id="likes_no"></p>
+
+<p class="likes_p" id="images_no"></p>
+
+<div id="container"></div>
+<nav>
+    <ul>
+        <li><span id="about"></span></li>
+    </ul>
+</nav>
+<img class="user_guide" src="img/user-guide.png"/>
+<div class="pagination_wrapper">
+    <ul id="pagination"></ul>
+</div>
+
+<!-- JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="js/controls/jquery.reveal.js"></script>
+<script src="js/controls/jquery.twbsPagination.min.js"></script>
+<script src="js/controls/jquery.mixit.up.js"></script>
+<script src="js/controls/translate.js"></script>
+<script src="js/controls/main.js"></script>
+<!-- END JS -->
+</body>
+</html>

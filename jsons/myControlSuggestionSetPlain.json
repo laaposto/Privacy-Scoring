@@ -1,0 +1,127 @@
+{
+  "likes": [
+    {
+      "id": "147922858638342",
+      "dimension": "Health",
+      "attribute": "medicines",
+      "value": "yes",
+      "confidence": 0.8,
+      "score": 0.75048,
+      "description_en": "This like (<a href=\"https://www.facebook.com/147922858638342/\">Dem@Care FP7 Project</a>) is associated to Health &rarr; medicines (disclosure score: 75,0%)..",
+      "description_du": "Deze vind-ik-leuk (<a href=\"https://www.facebook.com/147922858638342/\">Dem@Care FP7 Project</a>) wordt geassocieerd met Gezondheid &rarr; medicines (onthullingsscore: 75,0%)",
+      "description_sw": "Denna gilla-markering (<a href=\"https://www.facebook.com/147922858638342/\">Dem@Care FP7 Project</a>) hör ihop med Hälsa &rarr; medicines (avslöjandegrad: 75,0%)",
+      "pointer": null
+    },
+    {
+      "id": "1706558482921488",
+      "dimension": "Hobbies",
+      "attribute": "reading",
+      "value": "yes",
+      "confidence": 0.8,
+      "score": 0.490736,
+      "description_en": "This like (<a href=\"https://www.facebook.com/1706558482921488/\">Τα Βιβλία του Ηλία</a>) is associated to Hobbies &rarr; reading (disclosure score: 49,1%)..",
+      "description_du": "Deze vind-ik-leuk (<a href=\"https://www.facebook.com/1706558482921488/\">Τα Βιβλία του Ηλία</a>) wordt geassocieerd met Hobby's &rarr; lezen (onthullingsscore: 49,1%)",
+      "description_sw": "Denna gilla-markering (<a href=\"https://www.facebook.com/1706558482921488/\">Τα Βιβλία του Ηλία</a>) hör ihop med Hobbies &rarr; läsande (avslöjandegrad: 49,1%)",
+      "pointer": null
+    },
+    {
+      "id": "547745631984036",
+      "dimension": "Hobbies",
+      "attribute": "reading",
+      "value": "yes",
+      "confidence": 0.8,
+      "score": 0.490736,
+      "description_en": "This like (<a href=\"https://www.facebook.com/547745631984036/\">Παλαιοβιβλιοπωλείο \"Ο Αριστείδης\"</a>) is associated to Hobbies &rarr; reading (disclosure score: 49,1%)..",
+      "description_du": "Deze vind-ik-leuk (<a href=\"https://www.facebook.com/547745631984036/\">Παλαιοβιβλιοπωλείο \"Ο Αριστείδης\"</a>) wordt geassocieerd met Hobby's &rarr; lezen (onthullingsscore: 49,1%)",
+      "description_sw": "Denna gilla-markering (<a href=\"https://www.facebook.com/547745631984036/\">Παλαιοβιβλιοπωλείο \"Ο Αριστείδης\"</a>) hör ihop med Hobbies &rarr; läsande (avslöjandegrad: 49,1%)",
+      "pointer": null
+    },
+    {
+      "id": "1402474526707003",
+      "dimension": "Hobbies",
+      "attribute": "music",
+      "value": "yes",
+      "confidence": 0.8,
+      "score": 0.490736,
+      "description_en": "This like (<a href=\"https://www.facebook.com/1402474526707003/\">Zorz Pilali - Ζωρζ Πιλαλι</a>) is associated to Hobbies &rarr; music (disclosure score: 49,1%)..",
+      "description_du": "Deze vind-ik-leuk (<a href=\"https://www.facebook.com/1402474526707003/\">Zorz Pilali - Ζωρζ Πιλαλι</a>) wordt geassocieerd met Hobby's &rarr; muziek (onthullingsscore: 49,1%)",
+      "description_sw": "Denna gilla-markering (<a href=\"https://www.facebook.com/1402474526707003/\">Zorz Pilali - Ζωρζ Πιλαλι</a>) hör ihop med Hobbies &rarr; musik (avslöjandegrad: 49,1%)",
+      "pointer": null
+    },
+    {
+      "id": "22091039498",
+      "dimension": "Hobbies",
+      "attribute": "music",
+      "value": "yes",
+      "confidence": 0.8,
+      "score": 0.490736,
+      "description_en": "This like (<a href=\"https://www.facebook.com/22091039498/\">Roibéard Ó Bogail</a>) is associated to Hobbies &rarr; music (disclosure score: 49,1%)..",
+      "description_du": "Deze vind-ik-leuk (<a href=\"https://www.facebook.com/22091039498/\">Roibéard Ó Bogail</a>) wordt geassocieerd met Hobby's &rarr; muziek (onthullingsscore: 49,1%)",
+      "description_sw": "Denna gilla-markering (<a href=\"https://www.facebook.com/22091039498/\">Roibéard Ó Bogail</a>) hör ihop med Hobbies &rarr; musik (avslöjandegrad: 49,1%)",
+      "pointer": null
+    },
+    {
+      "id": "194750760669585",
+      "dimension": "Hobbies",
+      "attribute": "music",
+      "value": "yes",
+      "confidence": 0.8,
+      "score": 0.490736,
+      "description_en": "This like (<a href=\"https://www.facebook.com/194750760669585/\">Carcass</a>) is associated to Hobbies &rarr; music (disclosure score: 49,1%)..",
+      "description_du": "Deze vind-ik-leuk (<a href=\"https://www.facebook.com/194750760669585/\">Carcass</a>) wordt geassocieerd met Hobby's &rarr; muziek (onthullingsscore: 49,1%)",
+      "description_sw": "Denna gilla-markering (<a href=\"https://www.facebook.com/194750760669585/\">Carcass</a>) hör ihop med Hobbies &rarr; musik (avslöjandegrad: 49,1%)",
+      "pointer": null
+    },
+    {
+      "id": "152225864967382",
+      "dimension": "Hobbies",
+      "attribute": "music",
+      "value": "yes",
+      "confidence": 0.8,
+      "score": 0.490736,
+      "description_en": "This like (<a href=\"https://www.facebook.com/152225864967382/\">Gus Boggar</a>) is associated to Hobbies &rarr; music (disclosure score: 49,1%)..",
+      "description_du": "Deze vind-ik-leuk (<a href=\"https://www.facebook.com/152225864967382/\">Gus Boggar</a>) wordt geassocieerd met Hobby's &rarr; muziek (onthullingsscore: 49,1%)",
+      "description_sw": "Denna gilla-markering (<a href=\"https://www.facebook.com/152225864967382/\">Gus Boggar</a>) hör ihop med Hobbies &rarr; musik (avslöjandegrad: 49,1%)",
+      "pointer": null
+    },
+    {
+      "id": "20763704268",
+      "dimension": "Hobbies",
+      "attribute": "music",
+      "value": "yes",
+      "confidence": 0.8,
+      "score": 0.490736,
+      "description_en": "This like (<a href=\"https://www.facebook.com/20763704268/\">Uaigneas</a>) is associated to Hobbies &rarr; music (disclosure score: 49,1%)..",
+      "description_du": "Deze vind-ik-leuk (<a href=\"https://www.facebook.com/20763704268/\">Uaigneas</a>) wordt geassocieerd met Hobby's &rarr; muziek (onthullingsscore: 49,1%)",
+      "description_sw": "Denna gilla-markering (<a href=\"https://www.facebook.com/20763704268/\">Uaigneas</a>) hör ihop med Hobbies &rarr; musik (avslöjandegrad: 49,1%)",
+      "pointer": null
+    },
+    {
+      "id": "156164844446935",
+      "dimension": "Hobbies",
+      "attribute": "music",
+      "value": "yes",
+      "confidence": 0.8,
+      "score": 0.490736,
+      "description_en": "This like (<a href=\"https://www.facebook.com/156164844446935/\">Lost Bodies</a>) is associated to Hobbies &rarr; music (disclosure score: 49,1%)..",
+      "description_du": "Deze vind-ik-leuk (<a href=\"https://www.facebook.com/156164844446935/\">Lost Bodies</a>) wordt geassocieerd met Hobby's &rarr; muziek (onthullingsscore: 49,1%)",
+      "description_sw": "Denna gilla-markering (<a href=\"https://www.facebook.com/156164844446935/\">Lost Bodies</a>) hör ihop med Hobbies &rarr; musik (avslöjandegrad: 49,1%)",
+      "pointer": null
+    },
+    {
+      "id": "913210135430928",
+      "dimension": "Hobbies",
+      "attribute": "travelling",
+      "value": "yes",
+      "confidence": 0.8,
+      "score": 0.490736,
+      "description_en": "This like (<a href=\"https://www.facebook.com/913210135430928/\">Ξενώνας Munti Smolikas</a>) is associated to Hobbies &rarr; travelling (disclosure score: 49,1%)..",
+      "description_du": "Deze vind-ik-leuk (<a href=\"https://www.facebook.com/913210135430928/\">Ξενώνας Munti Smolikas</a>) wordt geassocieerd met Hobby's &rarr; reizen (onthullingsscore: 49,1%)",
+      "description_sw": "Denna gilla-markering (<a href=\"https://www.facebook.com/913210135430928/\">Ξενώνας Munti Smolikas</a>) hör ihop med Hobbies &rarr; att resa (avslöjandegrad: 49,1%)",
+      "pointer": null
+    }
+  ],
+  "posts": [],
+  "images": [],
+  "user_id": "10153345649555260"
+}
